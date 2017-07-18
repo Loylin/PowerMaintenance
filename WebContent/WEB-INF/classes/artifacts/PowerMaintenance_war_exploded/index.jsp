@@ -17,10 +17,13 @@
 </head>
 <body>
 <div class="container">
-    <img src="sources/image/logo.jpg" class="img-rounded">
-    <p class="bg-success">湘能楚天电力维护系统</p>
-    <div class="col-md-2 col-center-block col-border">
+    <img src="sources/image/logo.jpg" class="col-md-3 img-rounded img-responsive image">
+    <div class="col-md-9 title">
+        <h3 class="bg-success text-center">湘能楚天电力维护系统</h3>
+    </div>
+    <div class="col-md-4 col-border col-md-offset-1">
         <form action="login" method="get">
+            <h4 class="text-center">用户登录</h4>
             <div class="form-group">
                 <input type="text" class="form-control" id="account" name="account" placeholder="用户名">
             </div>

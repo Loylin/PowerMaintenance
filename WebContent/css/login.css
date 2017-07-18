@@ -2,16 +2,14 @@ body{
 
 }
 
-.col-center-block{
-    float: none;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+.title{
+    height: 80px;
 }
 
 .col-border{
     border: solid 1px snow;
     background-color: #d5d5d5;
+    margin-top: 100px;
 }
 
 .login-btn{
