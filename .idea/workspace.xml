@@ -2,60 +2,13 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="PowerMaintenance:war exploded" />
       <artifact name="PowerMaintence_war" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9047851a-1f23-428b-bca8-a36b721eff16" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/PowerMaintenance_war_exploded/WEB-INF/classes/com/xnct/powermt/controller/LoginController.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/PowerMaintenance_war_exploded/WEB-INF/classes/com/xnct/powermt/dao/LoginDao.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/PowerMaintenance_war_exploded/WEB-INF/classes/com/xnct/powermt/entity/LoginInfo.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/PowerMaintenance_war_exploded/WEB-INF/classes/com/xnct/powermt/service/LoginService.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/PowerMaintenance_war_exploded/commonlib/bootstrap/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/PowerMaintenance_war_exploded/commonlib/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/PowerMaintenance_war_exploded/commonlib/bootstrap/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/PowerMaintenance_war_exploded/commonlib/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/PowerMaintenance_war_exploded/commonlib/layer/skin/default/icon-ext.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/PowerMaintenance_war_exploded/commonlib/layer/skin/default/icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/PowerMaintenance_war_exploded/commonlib/layer/skin/default/loading-0.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/PowerMaintenance_war_exploded/commonlib/layer/skin/default/loading-1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/PowerMaintenance_war_exploded/commonlib/layer/skin/default/loading-2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/PowerMaintenance_war_exploded/sources/image/logo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/PowerMaintence_war/PowerMaintence_war.war" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/main/com/xnct/powermt/controller/LoginController.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/main/com/xnct/powermt/dao/LoginDao.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/main/com/xnct/powermt/entity/LoginInfo.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/main/com/xnct/powermt/service/LoginService.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/PowerMaintenance_war_exploded/META-INF/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/PowerMaintenance_war_exploded/WEB-INF/classes/mapper/LoginDao.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/PowerMaintenance_war_exploded/WEB-INF/classes/resources/mapper/LoginDao.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/PowerMaintenance_war_exploded/WEB-INF/page/home.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/PowerMaintenance_war_exploded/commonlib/bootstrap/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/PowerMaintenance_war_exploded/commonlib/bootstrap/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/PowerMaintenance_war_exploded/commonlib/bootstrap/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/PowerMaintenance_war_exploded/commonlib/bootstrap/css/bootstrap-theme.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/PowerMaintenance_war_exploded/commonlib/bootstrap/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/PowerMaintenance_war_exploded/commonlib/bootstrap/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/PowerMaintenance_war_exploded/commonlib/bootstrap/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/PowerMaintenance_war_exploded/commonlib/bootstrap/css/bootstrap.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/PowerMaintenance_war_exploded/commonlib/bootstrap/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/PowerMaintenance_war_exploded/commonlib/bootstrap/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/PowerMaintenance_war_exploded/commonlib/bootstrap/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/PowerMaintenance_war_exploded/commonlib/bootstrap/js/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/PowerMaintenance_war_exploded/commonlib/jquery/jquery-3.2.1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/PowerMaintenance_war_exploded/commonlib/jquery/jquery-3.2.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/PowerMaintenance_war_exploded/commonlib/jquery/jquery-3.2.1.min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/PowerMaintenance_war_exploded/commonlib/layer/layer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/PowerMaintenance_war_exploded/commonlib/layer/mobile/layer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/PowerMaintenance_war_exploded/commonlib/layer/mobile/need/layer.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/PowerMaintenance_war_exploded/commonlib/layer/skin/default/layer.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/PowerMaintenance_war_exploded/css/home.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/PowerMaintenance_war_exploded/css/login.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/PowerMaintenance_war_exploded/js/home.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/PowerMaintenance_war_exploded/js/loglin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/main/mapper/LoginDao.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/main/resources/mapper/LoginDao.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/PowerMaintence_war/PowerMaintence_war.war" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/PowerMaintence_war/PowerMaintence_war.war" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/PowerMaintence_war.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/PowerMaintence_war.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -73,7 +26,7 @@
         <entry file="file://$PROJECT_DIR$/WebContent/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="191">
-              <caret line="19" column="6" lean-forward="true" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+              <caret line="19" column="6" lean-forward="false" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -82,8 +35,8 @@
       <file leaf-file-name="PowerMaintence_war.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.idea/artifacts/PowerMaintence_war.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+            <state relative-caret-position="213">
+              <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -155,6 +108,7 @@
         <option value="$PROJECT_DIR$/WebContent/js/home.js" />
         <option value="$PROJECT_DIR$/WebContent/WEB-INF/page/home.jsp" />
         <option value="$PROJECT_DIR$/WebContent/css/home.css" />
+        <option value="$PROJECT_DIR$/.idea/artifacts/PowerMaintence_war.xml" />
       </list>
     </option>
   </component>
@@ -969,7 +923,7 @@
       <workItem from="1500284266109" duration="564000" />
       <workItem from="1500287316783" duration="774000" />
       <workItem from="1500341101858" duration="20408000" />
-      <workItem from="1500370787501" duration="1031000" />
+      <workItem from="1500370787501" duration="1399000" />
     </task>
     <task id="LOCAL-00001" summary="项目框架">
       <created>1500279737783</created>
@@ -1083,14 +1037,22 @@
       <option name="project" value="LOCAL" />
       <updated>1500371763732</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="登录">
+      <created>1500371857911</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1500371857911</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40622000" />
+    <option name="totallyTimeSpent" value="40990000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1115,7 +1077,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31311476" sideWeight="0.7677761" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21255673" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21255673" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -1506,15 +1468,15 @@
     <entry file="file://$PROJECT_DIR$/WebContent/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="191">
-          <caret line="19" column="6" lean-forward="true" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+          <caret line="19" column="6" lean-forward="false" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/artifacts/PowerMaintence_war.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        <state relative-caret-position="213">
+          <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
           <folding />
         </state>
       </provider>

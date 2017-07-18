@@ -5,6 +5,7 @@
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/WebContent/META-INF/MANIFEST.MF" />
       </element>
+      <element id="artifact" artifact-name="PowerMaintenance:war exploded" />
     </root>
   </artifact>
 </component>
