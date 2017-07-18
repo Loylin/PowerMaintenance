@@ -27,6 +27,9 @@ function btnInit() {
                     }, 1000);
                 } else {
                     $("#errortips").show();
+                    $("#account").val("");
+                    $("#psw").val("");
+                    layer.msg("测试账号：2014001，密码：123456", {time:3000, icon: 5});
                 }
             },
             error: function (data) {
