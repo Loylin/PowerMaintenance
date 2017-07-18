@@ -18,6 +18,15 @@
     <script src="../js/home.js"></script>
 </head>
 <body>
-hello
+
+<%--顶部导航条--%>
+<nav class="navbar navbar-default navbar-fixed-top">
+    <div class="container-fluid">
+        <%--品牌图标--%>
+        <div class="navbar-header">
+            <a href="#" class="navbar-brand img-a"><img class="img-thumbnail img-logo" src="../sources/image/logo.jpg" alt="Brand"></a>
+        </div>
+    </div>
+</nav>
 </body>
 </html>
