@@ -17,18 +17,19 @@
 </head>
 <body>
 <div class="container">
-    <h3 class="text-center bg-success">湘能楚天电力维护系统</h3>
-</div>
-<div class="col-md-3 col-center-block">
-    <form action="login" method="get">
-        <div class="form-group">
-            <input type="text" class="form-control" id="account" name="account" placeholder="用户名">
-        </div>
-        <div class="form-group">
-            <input type="password" class="form-control" id="psw" name="psw" placeholder="密码">
-        </div>
-        <button type="submit" class="btn btn-info">确定</button>
-    </form>
+    <img src="sources/image/logo.jpg" class="img-rounded">
+    <p class="bg-success">湘能楚天电力维护系统</p>
+    <div class="col-md-2 col-center-block col-border">
+        <form action="login" method="get">
+            <div class="form-group">
+                <input type="text" class="form-control" id="account" name="account" placeholder="用户名">
+            </div>
+            <div class="form-group">
+                <input type="password" class="form-control" id="psw" name="psw" placeholder="密码">
+            </div>
+            <button type="submit" class="btn btn-info login-btn">确定</button>
+        </form>
+    </div>
 </div>
 </body>
 </html>
