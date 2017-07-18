@@ -20,8 +20,8 @@
 
     <!-- 首部图片与title -->
     <img src="sources/image/logo.jpg" class="col-md-3 img-rounded img-responsive image">
-    <div class="col-md-9 title">
-        <h3 class="bg-success text-center">湘能楚天电力维护系统</h3>
+    <div class="col-md-9">
+        <h3 class="bg-success text-center title">湘能楚天电力维护系统</h3>
     </div>
 
     <!-- 登录表单 -->

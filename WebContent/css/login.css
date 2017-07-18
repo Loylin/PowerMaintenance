@@ -2,8 +2,13 @@ body{
 
 }
 
+.image{
+    margin: 20px 0px;
+}
+
 .title{
     height: 80px;
+    line-height: 80px;
 }
 
 .col-border{
