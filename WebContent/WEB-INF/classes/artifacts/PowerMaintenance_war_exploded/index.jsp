@@ -19,14 +19,14 @@
     <h3 class="text-center bg-success">湘能楚天电力维护系统</h3>
 </div>
 <div class="col-md-3">
-    <form action="test" method="get">
+    <form action="login" method="get">
         <div class="form-group">
             <label for="account">账户：</label>
-            <input type="text" class="form-control" id="account" placeholder="用户名">
+            <input type="text" class="form-control" id="account" name="account" placeholder="用户名">
         </div>
         <div class="form-group">
             <label for="psw">密码：</label>
-            <input type="password" class="form-control" id="psw" placeholder="密码">
+            <input type="password" class="form-control" id="psw" name="psw" placeholder="密码">
         </div>
         <button type="submit" class="btn btn-info">确定</button>
     </form>

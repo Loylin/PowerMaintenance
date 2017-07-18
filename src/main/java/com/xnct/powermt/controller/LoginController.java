@@ -20,7 +20,7 @@ public class LoginController {
     public String login(String account, String psw){
         System.out.println("您的账户为:" + account + ", 密码:" + psw);
         LoginInfo loginInfo = loginService.queryLogin(account, psw);
-        System.out.println("姓名" + loginInfo.getName() + ", 部门" + loginInfo.getDept());
+        System.out.println("姓名:" + loginInfo.getName() + ", 部门:" + loginInfo.getDept());
         return "home";
     }
 }

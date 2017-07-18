@@ -19,7 +19,7 @@
     <h3 class="text-center bg-success">湘能楚天电力维护系统</h3>
 </div>
 <div class="col-md-3">
-    <form action="test" method="get">
+    <form action="login" method="get">
         <div class="form-group">
             <label for="account">账户：</label>
             <input type="text" class="form-control" id="account" name="account" placeholder="用户名">
