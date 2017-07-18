@@ -14,6 +14,7 @@
     <link href="css/login.css" type="text/css" rel="stylesheet">
     <script src="commonlib/jquery/jquery-3.2.1.min.js"></script>
     <script src="commonlib/bootstrap/js/bootstrap.min.js"></script>
+    <script src="commonlib/layer/layer.js"></script>
     <script src="js/loglin.js"></script>
 </head>
 <body>

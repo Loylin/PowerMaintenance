@@ -15,20 +15,22 @@ function btnInit() {
     $("#btn-login").click(function () {
         $.ajax({
             type: "post",
-            url : "/login",
-            data : $("#login-form").serialize(),
+            url: "/login",
+            data: $("#login-form").serialize(),
             dataType: "text",
-            async : false,
-            success : function (data) {
-                if(data == "YES"){
-                    alert("登录成功！");
-                    window.location.href = "/home";
+            async: false,
+            success: function (data) {
+                if (data == "YES") {
+                    layer.msg("登录成功！", {time: 1000, icon: 6});
+                    setTimeout(function () {
+                        window.location.href = "/home";
+                    }, 1000);
                 } else {
                     $("#errortips").show();
                 }
             },
-            error : function (data) {
-                alert("错误信息:" + data);
+            error: function (data) {
+                layer.msg("发生错误了！");
             }
         });
         return false;
